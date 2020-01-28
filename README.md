@@ -1,1 +1,1 @@
-# My DataCamp Prrojects
+# My DataCamp Projects
